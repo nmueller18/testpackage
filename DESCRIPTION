@@ -1,9 +1,10 @@
 Package: testpackage
-Title: What the Package Does (one line, title case)
+Title: TESTPACKAGE
 Version: 0.0.0.9000
 Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+Description: Das ist was ganz Tolles.
 Depends: R (>= 3.4.0)
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+Imports: bookdown
